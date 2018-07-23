@@ -9,7 +9,7 @@ date = gets.chomp
 puts "When is the party?"
 time = gets.chomp
 puts "What is your name?"
-host_name = gets.chomp.capitalize
+host_name = gets.chomp
 
 puts "Dear #{guest_name.capitalize},
  
@@ -17,4 +17,4 @@ You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSV
  
 Sincerely,
  
-#{host_name}"
+#{host_name. capitalize}"
