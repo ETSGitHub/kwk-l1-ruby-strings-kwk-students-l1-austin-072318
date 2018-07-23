@@ -15,4 +15,4 @@ You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSV
  
 Sincerely,
  
-Harry Potter"
+#{host_name}"
