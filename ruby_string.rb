@@ -3,10 +3,13 @@ guest_name = gets.chomp
 
 puts "What is the name of your party?"
 party_name = gets.chomp
+
 puts "What is the date of your party?"
 date = gets.chomp
+
 puts "When is the party?"
 time = gets.chomp
+
 puts "What is your name?"
 host_name = gets.chomp
 
