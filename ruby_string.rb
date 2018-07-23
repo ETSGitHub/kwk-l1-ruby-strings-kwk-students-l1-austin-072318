@@ -1,3 +1,5 @@
+puts "Welcome!"
+
 puts "Please type the guest name"
 guest_name = gets.chomp.capitalize
 puts "What is the name of your party?"
