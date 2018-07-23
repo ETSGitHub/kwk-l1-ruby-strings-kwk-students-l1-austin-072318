@@ -17,4 +17,4 @@ You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSV
  
 Sincerely,
  
-#{host_name. capitalize}"
+#{host_name.capitalize}"
